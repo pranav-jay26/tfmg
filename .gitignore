@@ -1,0 +1,7 @@
+essential/
+logs/
+config/
+defaultconfig/
+*.json
+patchouli_books/
+.curseclient
